@@ -4,4 +4,5 @@
 <p>execute na linha de comando : php artisan jwt:secret</p>
 <p>execute o comando : npm install</p>
 <p>execute o comando : npm run dev</p>
-<p>e por fim, execute o comando : php artisan serve --port xxxx</p>
+<p>execute o comando : php artisan serve --port xxxx</p>
+<p>e por fim, execute o comando : php artisan migrate</p>
